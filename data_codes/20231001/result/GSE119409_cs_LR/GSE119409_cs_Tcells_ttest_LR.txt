@@ -1,0 +1,2 @@
+Celltype	id	t	df	p.value	Mean non	Mean response	Var non	Var response	L	R	Ligand	Receptor
+Tcells	IL17A	1.60969349233928	32.6221738776496	0.117100574555907	458.2153	332.2496	96911.65	56400.92	1		IL17A	IL17RC/IL17RA/IL17RB

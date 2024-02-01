@@ -1,0 +1,2 @@
+Celltype	id	t	df	p.value	Mean non	Mean response	Var non	Var response	L	R	Ligand	Receptor
+Epithelialcells	JAG1	-3.01431073787196	33.7794840760527	0.00485969453987929	680.5024	974.0829	156224.38	85133.16	1		JAG1	NOTCH1/NOTCH2/NOTCH3/NOTCH4
