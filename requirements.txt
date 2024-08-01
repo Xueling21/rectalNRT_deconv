@@ -1,0 +1,5 @@
+R software (version 4.1.1-4.4.1).
+R package randomForest (version >4.6)
+R package seurat (version >5.1) 
+R package limma (version >3.58.1)
+R package cellchat (version >1.6.1)
