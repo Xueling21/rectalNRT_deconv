@@ -9,6 +9,7 @@ This repository contains scripts and data for analyzing single-cell RNA sequenci
 
 ```
     ├── result/
+    ├── To_predictive_model/
     ├── plot/
     ├── dataset/
     ├── data-analysis/
