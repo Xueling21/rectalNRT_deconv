@@ -1,0 +1,5 @@
+1	NA	NA	Freq	1	2	3
+2	NR	NR	14	Con accuracy	 	0.777777777777778
+3	R	NR	4	Treat accuracy		0.777777777777778
+4	NR	R	4	Con accuracy	 	0.777777777777778
+5	R	R	14	Treat accuracy		0.777777777777778

@@ -1,0 +1,7 @@
+STAT1_Tcells
+COLEC11_Epithelialcells
+WISP3_Epithelialcells
+KIF13A_Epithelialcells
+NPIPB15_Epithelialcells
+PCDHGA10_Epithelialcells
+SLC1A4_Epithelialcells
